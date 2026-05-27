@@ -1,0 +1,1 @@
+Páginas: obras.html, obra-detalhes-modelo.html e obras-paralisadas.html. Para cadastrar obra real, adicione linha em dados/obras.json e crie arquivos JSON específicos para contratados/executados.
